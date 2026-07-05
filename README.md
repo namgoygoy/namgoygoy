@@ -6,7 +6,7 @@
 
 ## 現在の目標と学習内容
 - 効率的なバックエンドシステムの設計およびサーバーアーキテクチャの深化
-- 日本のIT企業での円滑なチーム協업のためのビジネス日本語の習得
+- 日本のIT企業での円滑なチーム協働のためのビジネス日本語の習得
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejh3771)](https://solved.ac/leejh3771/)
 
